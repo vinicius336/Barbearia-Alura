@@ -18,3 +18,6 @@
 1.   Criação da pasta imagens e inclusão do arquivo "banner.jpg".
 2.   Colocar a imagem banner.jpg na index.html
 3.   Modidicação do background do body no CSS
+
+- ### Modificação - 20.12.2022 - 20:15
+1.  Colocar a cor #ccc no background pelo CSS
