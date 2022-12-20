@@ -1,3 +1,7 @@
+body{
+    background: #ccc;
+}
+
 h1{
     text-align: center;
 }
@@ -8,4 +12,8 @@ p{
 
 p em{
     font-size: 20px;
+}
+
+em strong{
+    color: #f00;
 }
