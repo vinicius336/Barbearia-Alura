@@ -7,11 +7,10 @@
 ###### 6 Hashtags
 
 # Ênfase
-* *Italico* _Underline ou Asterisco_
-* 2 asteriscos antes e depois dos texto
-* __2 asteriscos antes e depois dos texto__ 
-* ~~2 tils antes e depois do texto~~ 
-* **_2 asteriscos e 1 underline antes e depois do texto_** 
+* *Italico* - _Underline ou Asterisco_
+* **Negrito** - __2 asteriscos ou 2 Underlines__ 
+* Tachado - ~~2 tils~~
+* **_Itálico e Negrito_** - 2 Asteriscos e 1 Underline
 
 # Lista Ordenada
 1. Número um e um ponto
