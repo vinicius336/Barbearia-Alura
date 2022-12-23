@@ -7,12 +7,12 @@
 ###### 6 Hashtags
 
 # Ênfase
-* Asteristo antes e depois do texto * 
-_ Underline antes e depois do texto _ 
-**2 asteriscos antes e depois dos texto** 
-__2 asteriscos antes e depois dos texto__ 
-~~2 tils antes e depois do texto~~ 
-**_2 asteriscos e 1 underline antes e depois do texto_** 
+* *Asteristo antes e depois do texto* 
+* _Underline antes e depois do texto_ 
+* **2 asteriscos antes e depois dos texto** 
+* __2 asteriscos antes e depois dos texto__ 
+* ~~2 tils antes e depois do texto~~ 
+* **_2 asteriscos e 1 underline antes e depois do texto_** 
 
 # Lista Ordenada
 1. Número um e um ponto
