@@ -9,7 +9,7 @@
 # Ênfase
 * *Italico* - Underline ou Asterisco
 * **Negrito** - 2 asteriscos ou 2 Underlines
-* Tachado - ~~2 tils~~
+* ~~Tachado~~ - 2 tils
 * **_Itálico e Negrito_** - 2 Asteriscos e 1 Underline
 
 # Lista Ordenada
