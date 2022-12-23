@@ -7,7 +7,8 @@
 ###### 6 Hashtags
 
 # Ênfase
-* *Asteristo antes e depois do texto* 
+* A
+* *Asteristo antes e depois do texto*
 * _Underline antes e depois do texto_ 
 * **2 asteriscos antes e depois dos texto** 
 * __2 asteriscos antes e depois dos texto__ 
